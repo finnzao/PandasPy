@@ -1,0 +1,33 @@
+{
+    "excelFilePath": "PlanilhaFiltrada.xlsx",
+    "separator": ";",
+    "nomeColunaFiltro":"descricaoUltimoMovimento",
+    "valoresParaFiltagrem": {
+        "Juntada contestação": ["Juntada de Petição de contestação"],
+        "Renuncia": ["Juntada de Petição de renúncia de mandato"],
+        "Junta contrarrazões": ["Juntada de Petição de contra-razões"],
+        "Pagamento": ["Juntada de Petição de informação de pagamento"],
+        "Pedido desistência homologação": ["Juntada de Petição de pedido de extinção por pagamento da dívida"],
+        "Suspensão": ["Juntada de Petição de pedido de suspensão"],
+        "Replica": ["Juntada de Petição de réplica"],
+        "Remetido 2 grau": [
+            "Remetidos os Autos (em diligência) para o 2º Grau",
+            "Remetidos os Autos (em grau de recurso) para o 2º Grau",
+            "Remetidos os Autos (outros motivos) para o 2º Grau"
+        ],
+        "Recebido do CEJUSC": ["Recebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"],
+        "Desistência da ação": [
+            "Extinto o processo por Perempção, litispendência ou coisa julgada",
+            "Homologado o pedido",
+            "Extinto o processo por abandono da causa pelo autor",
+            "Juntada de Petição de pedido de desistência da ação"
+        ],
+        "Devolvidos autos": ["Devolvidos os autos"],
+        "Baixa Definitiva": ["Baixa Definitiva"],
+        "Arquivado Provisoramente": ["Arquivado Provisoramente"],
+        "Não entregue ao destinatário": ["Mandado devolvido não entregue ao destinatário"],
+        "Ausência de pressupostos": ["Extinto o processo por ausência de pressupostos processuais"],
+        "Homologada a Transação": ["Homologada a Transação"],
+        "Homologação de acordo": ["Juntada de Petição de pedido de homologação de acordo"]
+    }
+}
